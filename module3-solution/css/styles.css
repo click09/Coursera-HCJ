@@ -1,0 +1,65 @@
+h1 {
+  margin-top: 30px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+
+
+body {
+  font-size: 16px;
+  font-family: 'Verdana';
+}
+
+/*Header*/
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Verdana', serif;
+  color: black;
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+#header-nav {
+  background-color: #DBDBDB;
+  border-radius: 1;
+}
+
+#nav-list {
+  color: black;
+  text-align: center;
+}
+
+
+#Chicken {
+  background-color: #FFFFCC;
+}
+
+#Beef {
+  background-color: #FFE5CC;
+
+}
+
+#Sushi {
+  background-color: #CCE5FF;
+}
+
+h3 {
+  padding-top: 12px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+p.word {
+  padding: 1%;
+  width: 100%;
+  font-size:18px;
+  color: Black;
+  position: relative;
+  padding-top: 5px;
+  left: 0;
+  margin-bottom: 2px;
+}
+
